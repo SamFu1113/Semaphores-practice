@@ -1,4 +1,4 @@
-# Three process synchronization using semaphores
+# Three processes synchronization using semaphores
 
 ***
 **Introduction**
